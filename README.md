@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @waysterMelo
 - 👀 I’m interested in improve my skills
-- 🌱 I’m currently learning Java web
+- 🌱 I’m currently learning Java EE, Javascript, C#, Python
