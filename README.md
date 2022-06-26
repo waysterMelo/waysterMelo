@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @waysterMelo
 - 👀 I’m interested in improve my skills
-- 🌱 I’m currently learning Java (Spring Boot), Javascript (Node & React) and Php
+- 🌱 I’m currently learning
+-  Java EE, Spring Boot 2.0,
+-   Node.js, Angular.js, React.js,
+-   Php 7, Laravel
 
 
 <div align="center">
